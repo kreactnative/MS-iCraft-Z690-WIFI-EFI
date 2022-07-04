@@ -9,4 +9,4 @@
 | Audio Chipset    | ALC1220                                   |
 | GPU              | Sapphire RX 580 4GSapphire                |
 | Ethernet         | RTL8125  2.5GbE X2                        |
-| WiFi & Bluetooth | Intel WiFi 6 AX200                        |
+| WiFi & Bluetooth | Fenvi FV-T919 1750Mbps                    |
